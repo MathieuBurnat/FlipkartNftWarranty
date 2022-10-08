@@ -1,6 +1,7 @@
 import abi from "./Warranty.json";
 
-export const contractAddress = "0xdaFFF8659E614f4106ecA353c3bF4B609E53cd06";
+export const contractAddress = 
+"0xF2dB154cAA3C792ec4dde7c7eC6972dC558e4f65";
 export const contractABI = abi.abi;
 
 

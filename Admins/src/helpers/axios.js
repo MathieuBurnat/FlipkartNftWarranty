@@ -4,7 +4,7 @@ import { logout } from '../actions/auth.actions';
 
 const instance = axios.create({
 	// baseURL: "http://ecommerce-env.eba-iqxcijgh.ap-south-1.elasticbeanstalk.com/v1",
-	baseURL : "https://gridnft.herokuapp.com/v1"
+	baseURL : "https://api.regexnatives.in/v1"
 	// baseURL : "http://localhost:8000/v1"
 });
 
